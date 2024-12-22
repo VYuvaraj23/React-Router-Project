@@ -1,0 +1,15 @@
+.viewProduct {
+  @apply  md:mt-10 md:px-52 space-y-5
+}
+.viewProduct img {
+  @apply  w-36 md:w-60 h-fit object-contain 
+}
+
+.viewProduct p{
+  @apply font-medium
+}
+
+.viewProduct p>span{
+  @apply font-bold
+}
+

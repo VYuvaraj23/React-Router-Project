@@ -1,0 +1,13 @@
+
+
+.cartPage-h1 {
+  @apply text-3xl font-bold my-4 ml-5
+}
+
+.cartDiv-1 {
+  @apply grid space-y-11;
+}
+
+.cartDiv-2 {
+  @apply mt-4 text-lg font-bold;
+}
