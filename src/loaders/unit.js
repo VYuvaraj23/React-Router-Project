@@ -5,6 +5,6 @@ export default async function ProductLoader() {
     return product
   } catch (error) {
     console.log(error)
-    return [];
+
   }
 }
